@@ -12,5 +12,8 @@ Merci de votre intérêt pour contribuer au projet Standards Ouverts ! Voici que
 - Respectez les conventions de nommage et de style du code existant.
 - Testez vos changements avant de les soumettre.
 
+## Processus de Revue de Code
+Après avoir soumis votre PR, attendez les commentaires des membres de l'équipe. Soyez prêt à discuter de vos modifications et apporter des ajustements si nécessaire.
+
 ## Code de Conduite
 Soyez respectueux et courtois dans vos interactions, et n'hésitez pas à poser des questions si vous avez besoin d'aide.
