@@ -3,7 +3,7 @@
 Merci de votre intérêt pour contribuer au projet Standards Ouverts ! Voici quelques étapes à suivre pour commencer :
 
 ## Comment Contribuer
-1. **Fork le dépôt** : Créez votre propre copie du projet sur votre compte GitHub.
+1. **Forker le dépôt** : Créez votre propre copie du projet sur votre compte GitHub.
 2. **Créez une branche** : Utilisez une branche descriptive pour vos modifications.
 3. **Effectuez vos modifications** : Ajoutez vos améliorations ou corrections selon les meilleures pratiques.
 4. **Soumettez une Pull Request** : Expliquez vos changements clairement et soumettez votre PR.
