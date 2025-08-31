@@ -16,4 +16,4 @@ Merci de votre intérêt pour contribuer au projet Standards Ouverts ! Voici que
 Après avoir soumis votre PR, attendez les commentaires des membres de l'équipe. Soyez prêt à discuter de vos modifications et à apporter des ajustements si nécessaire.
 
 ## Code de Conduite
-Soyez respectueux et courtois dans vos interactions, et n'hésitez pas à poser des questions si vous avez besoin d'aide.
+Soyez respectueux et courtois dans vos interactions. N'hésitez pas à poser des questions si vous avez besoin d'aide.
