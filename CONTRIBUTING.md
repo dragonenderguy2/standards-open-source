@@ -17,3 +17,9 @@ Après avoir soumis votre PR, attendez les commentaires des membres de l'équipe
 
 ## Code de Conduite
 Soyez respectueux et courtois dans vos interactions. N'hésitez pas à poser des questions si vous avez besoin d'aide.
+
+---
+
+## Remarques
+- Si vous soumettez un changement majeur, assurez-vous de documenter votre procédure.
+- Il est également utile de lier les problèmes liés dans votre PR.
